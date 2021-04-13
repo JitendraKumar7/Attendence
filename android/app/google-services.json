@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456982634032",
+    "project_id": "brtech-16e68",
+    "storage_bucket": "brtech-16e68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456982634032:android:91e1b392819e9e09d857f5",
+        "android_client_info": {
+          "package_name": "com.bsattendence.brtech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456982634032-4aei2aab4gas1p9oaa42f9e4ukisbfqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADvYohlLNYLLUyd_cnxQKpz6B2wep3rYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456982634032-4aei2aab4gas1p9oaa42f9e4ukisbfqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
